@@ -12,18 +12,13 @@ This script utilizes the [axios](https://www.npmjs.com/package/axios) and [cheer
 1. Clone the project:
 
 ```bash
-git clone https://github.com/<github-username>/proxy-axios.git
-```
-1. Clone the project:
-
-```bash
-git clone https://github.com/<github-username>/proxy-axios.git
+git clone https://github.com/MuhammetSonmez/proxyClient.git
 ```
 
 Navigate to the project directory:
 
 ```bash
-cd proxy-axios
+cd proxyClient
 ```
 Install dependencies:
 ```bash
